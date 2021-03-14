@@ -1,0 +1,19 @@
+.card {
+    
+    width:800px;
+    border-width:5px;
+    border-color:black;
+    border-style:solid;
+    margin-left: 200px;
+    
+}
+div img{
+   width:400px;
+   border-radius:50px;
+   transform: rotateY(180deg);
+    padding:10px 100px 10px 10px;
+}
+h1{
+    text-align:center;
+    transform: rotateY(180deg);
+}
